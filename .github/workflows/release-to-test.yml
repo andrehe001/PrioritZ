@@ -1,3 +1,5 @@
+# relase to test (build) environment
+
 name:  release-to-test
 on:
  release:
