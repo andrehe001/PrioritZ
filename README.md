@@ -1,7 +1,7 @@
 # PrioritZ
 ## PowerPlatform 
 
-- [ ] Item 1
+- [x] Item 1
 - [ ] Item 2
 - [ ] item 3
 
